@@ -1,0 +1,11 @@
+{
+    "name": "michielbakker/steganography",
+    "type": "PHP",
+    "authors": [
+        {
+            "name": "Michiel Bakker",
+            "email": "jaffog@gmail.com"
+        }
+    ],
+    "require": {}
+}
